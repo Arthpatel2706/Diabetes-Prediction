@@ -1,6 +1,7 @@
 # Diabetes Prediction
 
-![image]
+![image](https://github.com/user-attachments/assets/d6512228-74fe-4b78-9a33-89334c6ad577)
+
 
 Project Domain: Healthcare Analytics
 
